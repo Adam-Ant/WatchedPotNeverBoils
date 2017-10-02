@@ -4,4 +4,4 @@ This repo uses a Raspberry Pi and a 433Mhz remote controlled socket to enforce t
 
 This code is unmaintained, and was written at 4am after seeing a video by Tom Scott that contained this very concept. 
 
-A writeup of how this was done can be found on my blog, [here]()
+A writeup of how this was done can be found on my blog, [here](https://adam-ant.co.uk/a-watched-pot-never-boils-now-guaranteed.html)
